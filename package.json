@@ -1,0 +1,27 @@
+{
+  "name": "create-iso-app",
+  "version": "1.0.0",
+  "description": "@iso-react project bootstrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iso-react/create-iso-app.git"
+  },
+  "keywords": [
+    "isomorphic",
+    "react",
+    "universal",
+    "server",
+    "side",
+    "rendering"
+  ],
+  "author": "Alex Henderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iso-react/create-iso-app/issues"
+  },
+  "homepage": "https://github.com/iso-react/create-iso-app#readme"
+}
